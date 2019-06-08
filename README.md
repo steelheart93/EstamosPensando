@@ -21,6 +21,7 @@
 
 * * *
 ### Contacto
+
 | **Rol** | **Nombre** | **E-mail** |
 | Líder del Equipo | Juan Jose Lopez Giraldo | [jlopezg8@gmail.com](mailto:jlopezg8@gmail.com) |
 | Administrador de Planeación | Felipe Andres Quintero Higuita | [felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com) |
