@@ -20,17 +20,15 @@
 ![Diagrama de Contexto](contexto.png)
 
 * * *
-
 ### Contacto
 |**Rol**|**Nombre**|**E-mail**|
 |Líder del Equipo|Juan Jose Lopez Giraldo|[jlopezg8@gmail.com](mailto:jlopezg8@gmail.com)|
 |Administrador de Planeación|Felipe Andres Quintero Higuita|[felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com)|
 |Administrador de Soporte|Stiven Muñoz Murillo|[stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com)|
 |Administrador de Calidad|Elisabeth Campuzano Jaramillo|[pordefinir@gmail.com](mailto:pordefinir@gmail.com)|
-|Administrador Desarrollo|Juan Pablo Sánchez|[juan47s@hotmail.com](mailto:)|
+|Administrador Desarrollo|Juan Pablo Sánchez|[juan47s@hotmail.com](mailto:juan47s@hotmail.com)|
 
 * * *
-
 #### Otros Enlaces de Interés
 * [GitHub Pages themes](https://github.com/pages-themes)
 * **Architect theme:** [Code](https://github.com/pages-themes/architect/edit/master/index.md) & [Page](https://pages-themes.github.io/architect/)
