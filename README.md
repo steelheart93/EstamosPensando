@@ -6,9 +6,7 @@
 * [Recursos de Proyecto de Logística](https://drive.google.com/drive/u/0/folders/1mpDpeHUwC9ujBUCYYHVHMnLMkfdks-Ou)
 
 * * *
-
 ### Contacto
-
 |**Rol**|**Nombre**|**E-mail**|
 |Líder del Equipo|Juan Jose Lopez Giraldo|[jlopezg8@gmail.com](mailto:jlopezg8@gmail.com)|
 |Administrador de Planeación|Felipe Andres Quintero Higuita|[felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com)|
@@ -17,6 +15,6 @@
 |Administrador Desarrollo|Juan Pablo Sánchez|[juan47s@hotmail.com](mailto:)|
 
 * * *
-
+#### Otros enlaces de interes
 * [GitHub Pages themes](https://github.com/pages-themes)
 * **Architect theme:** [Code](https://github.com/pages-themes/architect/edit/master/index.md) & [Page](https://pages-themes.github.io/architect/)
