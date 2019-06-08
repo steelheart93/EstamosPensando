@@ -32,14 +32,6 @@
 
 * * *
 
-## Preguntas Frecuentes
-
-1. ¿Cuáles son las ?
-
-## Respuestas
-
-* * *
-
 ## Posibles Riesgos
 
 1. Los miembros abandonan el proyecto antes de que finalice.
@@ -61,7 +53,6 @@
 17. Rechazo de los miembros del equipo al uso de nuevas herramientas y/o tecnologías.
 18. Fracaso en el cumplimiento de los tiempos planificados.
 
-
 ## Plan de Contingencias
 
 5. Compartir cursos de los diferentes temas con los miembros del equipo, investigar la posibilidad de obtener asesoria externa.
@@ -72,12 +63,31 @@
 
 * * *
 
+## Preguntas Frecuentes
+
+1. ¿Cuáles son mis labores dentro del Equipo?
+
+## Respuestas
+
+1. La respuesta a la pregunta esta disponible en el siguiente documento, [Roles de Bolsillo](roles.pdf)
+
+* * *
+
+## Glosario (Lista de Definición)
+
+<dl>
+<dt>Especificación de una interfaz</dt>
+<dd>Una expresión formal de las características de una interfaz necesarias para asegurar la totalcompatibilidad (esto es, física y funcional) entre dos sistemas asociados. Para la total compatibilidad, la especificación de la interfaz debería incluir la especificación física de la interfaz y la especificación funcional de la interfaz.</dd>
+</dl>
+
+* * *
+
 ### Contacto
 
 | **Rol** | **Nombre** | **E-mail** |
 | Líder del Equipo | Juan Jose Lopez Giraldo | [jlopezg8@gmail.com](mailto:jlopezg8@gmail.com) |
-| Administrador de Planeación | Felipe Andres Quintero Higuita | [felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com) |
 | Administrador de Soporte | Stiven Muñoz Murillo | [stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com) |
+| Administrador de Planeación | Felipe Andres Quintero Higuita | [felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com) |
 | Administrador de Calidad | Elisabeth Campuzano Jaramillo | [pordefinir@gmail.com](mailto:pordefinir@gmail.com) |
 | Administrador Desarrollo | Juan Pablo Sánchez | [juan47s@hotmail.com](mailto:juan47s@hotmail.com) |
 
