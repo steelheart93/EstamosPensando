@@ -9,7 +9,7 @@ Visit my repository on GitHub, **User:** steelheart93
 
 ### Contacto
 
-**|Rol|Nombre|E-mail|**
+|**Rol**|**Nombre**|**E-mail**|
 |Líder del Equipo|Juan Jose Lopez Giraldo||[jlopezg8@gmail.com](mailto:jlopezg8@gmail.com)|
 |Administrador de Planeación|Felipe Andres Quintero Higuita|[felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com)|
 |Administrador de Soporte|Stiven Muñoz Murillo|[stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com)|
