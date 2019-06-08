@@ -1,4 +1,4 @@
-# LogisticApp, todos los derechos reservados
+# Conoce LogisticApp
 Visita el repositorio en GitHub, [LogisticApp](https://github.com/steelheart93/LogisticApp)
 
 ## Carpetas Compartidas del Grupo
@@ -10,7 +10,7 @@ Visita el repositorio en GitHub, [LogisticApp](https://github.com/steelheart93/L
 ### Contacto
 
 |**Rol**|**Nombre**|**E-mail**|
-|Líder del Equipo|Juan Jose Lopez Giraldo||[jlopezg8@gmail.com](mailto:jlopezg8@gmail.com)|
+|Líder del Equipo|Juan Jose Lopez Giraldo|[jlopezg8@gmail.com](mailto:jlopezg8@gmail.com)|
 |Administrador de Planeación|Felipe Andres Quintero Higuita|[felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com)|
 |Administrador de Soporte|Stiven Muñoz Murillo|[stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com)|
 |Administrador de Calidad|Elisabeth Campuzano Jaramillo|[pordefinir@gmail.com](mailto:pordefinir@gmail.com)|
