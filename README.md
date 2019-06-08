@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to my presentation page on GitHub
+Visit my repository on GitHub, **User:** steelheart93 
 
-You can use the [editor on GitHub](https://github.com/steelheart93/EstamosPensando/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Some more pages made by me
+* [Reminder with LocalStorage](https://steelheart93.github.io/recordatorios)
+* [WebCam to IFRAME](https://steelheart93.github.io/camara)
+* [Wikiquote to IFRAME](https://steelheart93.github.io/wikiquote)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Contact:** stivenmm1993@gmail.com, [Facebook of Developer](https://www.facebook.com/stiven.munozmurillo)
 
-### Markdown
+![publicidad](pendon.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/steelheart93/EstamosPensando/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```Copyright (c) 2019 Stiven Muñoz Murillo, All Rights Reserved.```
