@@ -22,8 +22,53 @@
 
 ## Información de Interés acerca del Proyecto
 
-#### Diagrama de Contexto
+#### Diagrama de Contexto (07/06/2019)
+
 ![contexto](contexto.png)
+
+#### Diagrama de Casos de Uso (07/06/2019)
+
+![usecases](usecases.png)
+
+* * *
+
+## Preguntas Frecuentes
+
+1. ¿Cuáles son las ?
+
+## Respuestas
+
+* * *
+
+## Posibles Riesgos
+
+1. Los miembros abandonan el proyecto antes de que finalice.
+2. Existencia de más cambios de requirimientos de los previstos inicialmente.
+3. Retrasos en la especificación de interfaces esenciales.
+4. El tamaño y tiempo del requisito se ha subestimado.
+5. Los miembros no cuentan con los conocimientos requeridos para enfrentar la complejidad del requisito.
+6. Miembros del equipo enfermos y/o no disponibles en momentos críticos.
+7. Cambios de requisitos que precisan modificaciones en el diseño y/o en la codificación.
+8. Los clientes no comprenden el impacto de los cambios en los requerimientos. Quejas de los stakeholders.
+9. El cliente no puede participar en revisiones y/o en reuniones.
+10. Los stakeholders cambian debido algún motivo externo.
+11. El tamaño y tiempo del desarrollo del sistema está subestimado.
+12. Problemas financieros dentro del equipo de desarrollo causan díficultades en el proceso.
+13. Problemas con el hardware del equipo de desarrollo.
+14. Baja moral de los miembros.
+15. Malas relaciones entre los miembros del equipo.
+16. Falta de iniciativa de la dirección.
+17. Rechazo de los miembros del equipo al uso de nuevas herramientas y/o tecnologías.
+18. Fracaso en el cumplimiento de los tiempos planificados.
+
+
+## Plan de Contingencias
+
+5. Compartir cursos de los diferentes temas con los miembros del equipo, investigar la posibilidad de obtener asesoria externa.
+6. Reorganizar el equipo de tal forma que se solapen el trabajo, para ello los miembros deben comprender el trabajo de los demás.
+7. Rastrear la información para valorar el posible impacto de cambios no planeados, maximizar los esfuerzos para que el impacto de dichos cambios en la estimación de tiempo de desarrollo sea mínimo y continuar pronto con el ritmo normal de trabajo. 
+11. Alertar al cliente acerca de las dificultades potenciales y posibilidades de retraso.
+12. Preparar un documento breve para los stakeholders que muestra que el proyecto hace contribuciones muy importantes para lograr los objetivos del negocio, y así, solicitar financiación.
 
 * * *
 
