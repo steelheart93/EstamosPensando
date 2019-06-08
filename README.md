@@ -8,6 +8,5 @@ Visit my repository on GitHub, **User:** steelheart93
 ### Stiven Muñoz Murillo, [stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com)
 
 * * *
-[GitHub Pages themes](https://github.com/pages-themes)
-[Architect theme Page](https://pages-themes.github.io/architect/)
-[Architect theme Code](https://github.com/pages-themes/architect/edit/master/index.md)
+* [GitHub Pages themes](https://github.com/pages-themes)
+* Architect theme,|[Code](https://github.com/pages-themes/architect/edit/master/index.md)|[Page](https://pages-themes.github.io/architect/)|
