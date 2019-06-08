@@ -17,6 +17,7 @@
 * [WhiteStarUML Home Page](http://whitestaruml.sourceforge.net/)
 
 ## Información de Interés acerca del Proyecto
+![Diagrama de Contexto](contexto.png)
 
 * * *
 
