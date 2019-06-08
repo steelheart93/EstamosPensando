@@ -1,5 +1,5 @@
-# Welcome to my presentation page on GitHub
-Visit my repository on GitHub, **User:** steelheart93 
+# LogisticApp, todos los derechos reservados
+Visita el repositorio en GitHub, [LogisticApp](https://github.com/steelheart93/LogisticApp)
 
 ## Carpetas Compartidas del Grupo
 * [Reuniones](https://drive.google.com/drive/u/0/folders/1yId2IfPIDdAhFavqeNVNsL0p5qPsZzdR)
