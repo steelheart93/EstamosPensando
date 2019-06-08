@@ -69,7 +69,7 @@
 
 ## Respuestas
 
-1. La respuesta a la pregunta esta disponible en el siguiente documento, [Roles de Bolsillo](roles.pdf)
+1. La respuesta a la pregunta está disponible en el siguiente documento, [Roles de Bolsillo.](roles.pdf)
 
 * * *
 
@@ -82,7 +82,7 @@
 
 * * *
 
-### Contacto
+### Contacto con los Miembros
 
 | **Rol** | **Nombre** | **E-mail** |
 | Líder del Equipo | Juan Jose Lopez Giraldo | [jlopezg8@gmail.com](mailto:jlopezg8@gmail.com) |
