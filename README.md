@@ -66,10 +66,12 @@
 ## Preguntas Frecuentes
 
 1. ¿Cuáles son mis labores dentro del Equipo?
+2. ¿Qué es Slack?
 
 ## Respuestas
 
 1. La respuesta a la pregunta está disponible en el siguiente documento, [Roles de Bolsillo.](roles.pdf)
+2. La respuesta a la pregunta está disponible en el siguiente documento, [Slack.](Slack.pdf) Para una respuesta más exhaustiva puede remitirse al siguiente documento, [Slack Exhaustivo.](SlackExhaustivo.pdf)
 
 * * *
 
