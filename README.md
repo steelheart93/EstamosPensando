@@ -71,15 +71,25 @@
 ## Respuestas
 
 1. La respuesta a la pregunta está disponible en el siguiente documento, [Roles de Bolsillo.](roles.pdf)
-2. La respuesta a la pregunta está disponible en el siguiente documento, [Slack.](Slack.pdf) Para una respuesta más exhaustiva puede remitirse al siguiente documento, [Slack Exhaustivo.](SlackExhaustivo.pdf)
+2. La respuesta a la pregunta está disponible en el siguiente documento, [Slack.](Slack.pdf) 
+Para una respuesta más exhaustiva puede remitirse al siguiente documento, [Slack Exhaustivo.](SlackExhaustivo.pdf)
 
 * * *
 
 ## Glosario (Lista de Definición)
 
 <dl>
+
 <dt>Especificación de una interfaz</dt>
-<dd>Una expresión formal de las características de una interfaz necesarias para asegurar la totalcompatibilidad (esto es, física y funcional) entre dos sistemas asociados. Para la total compatibilidad, la especificación de la interfaz debería incluir la especificación física de la interfaz y la especificación funcional de la interfaz.</dd>
+<dd>
+Una expresión formal de las características de una interfaz necesarias para asegurar la totalcompatibilidad (esto es, física y funcional) entre dos sistemas asociados. Para la total compatibilidad, la especificación de la interfaz debería incluir la especificación física de la interfaz y la especificación funcional de la interfaz.
+</dd>
+
+<dt>Exhaustivo</dt>
+<dd>
+Se dice de lo que agota un tema o materia, es decir, que trata todos los casos posibles o, al menos, una enorme cantidad de ellos.
+Ejemplo: Una colección o enumeración exhaustiva, es aquella en la que todos los casos o elementos posibles han sido tomados en cuenta.</dd>
+
 </dl>
 
 * * *
