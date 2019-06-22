@@ -19,6 +19,7 @@
 
 * [The Software Process Dashboard](https://www.processdash.com/)
 * [WhiteStarUML Home Page](http://whitestaruml.sourceforge.net/)
+* [Slack Downloads Windows](https://slack.com/intl/es-co/downloads/windows)
 
 ## Información de Interés acerca del Proyecto
 
