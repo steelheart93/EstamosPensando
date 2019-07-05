@@ -4,8 +4,10 @@
 
 ## Carpetas Compartidas del Grupo
 
-* [Reuniones](https://drive.google.com/drive/u/0/folders/1yId2IfPIDdAhFavqeNVNsL0p5qPsZzdR)
-* [Recursos de Proyecto de Logística](https://drive.google.com/drive/u/0/folders/1mpDpeHUwC9ujBUCYYHVHMnLMkfdks-Ou)
+* [Proyecto de Logística - Carpeta Principal](https://drive.google.com/drive/u/0/folders/1yId2IfPIDdAhFavqeNVNsL0p5qPsZzdR)
+* [Proyecto de Logística - Recursos](https://drive.google.com/drive/u/0/folders/1mpDpeHUwC9ujBUCYYHVHMnLMkfdks-Ou)
+* [Proyecto de Logística - Reuniones](https://drive.google.com/drive/folders/1Z_R3x5r9OZ94QyFcYEsKsa9C_DfdcSzl)
+* [Software 2 - Lucidchart](https://www.lucidchart.com/documents#docs?folder_id=192269092&browser=icon&sort=saved-desc)
 
 ## Cursos de Interés
 
