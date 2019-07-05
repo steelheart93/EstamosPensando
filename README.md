@@ -30,7 +30,7 @@
 
 ![contexto](contexto.png)
 
-#### Diagrama de Casos de Uso (07/06/2019)
+#### Diagrama de Casos de Uso (04/07/2019)
 
 ![usecases](usecases.png)
 
