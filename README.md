@@ -8,7 +8,8 @@
 * [Proyecto de Logística - Planes individuales](https://drive.google.com/drive/u/0/folders/11MXSxojzKIcIO-_0bzkY-wmZLcPlCMS8)
 * [Proyecto de Logística - Recursos](https://drive.google.com/drive/u/0/folders/1mpDpeHUwC9ujBUCYYHVHMnLMkfdks-Ou)
 * [Proyecto de Logística - Reuniones](https://drive.google.com/drive/folders/1Z_R3x5r9OZ94QyFcYEsKsa9C_DfdcSzl)
-* [Software 2 - Lucidchart](https://www.lucidchart.com/documents#docs?folder_id=192269092&browser=icon&sort=saved-desc)
+* [Lucidchart - Carpeta Principal](https://www.lucidchart.com/documents#docs?folder_id=192269092&browser=icon&sort=saved-desc)
+* [Lucidchart - Proyecto](https://www.lucidchart.com/documents#docs?folder_id=192672845&browser=icon&sort=saved-desc)
 
 ## Cursos de Interés
 
