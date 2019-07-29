@@ -25,6 +25,13 @@
 * [WhiteStarUML Home Page](http://whitestaruml.sourceforge.net/)
 * [Slack Downloads Windows](https://slack.com/intl/es-co/downloads/windows)
 
+## Arquitecturas de Referencia
+
+* [Profesora Sandra](https://github.com/steelheart93/Barcos-v8a)
+* [Profesor Oscar](https://github.com/steelheart93/WhiteStartUML)
+
+* * *
+
 ## Información de Interés acerca del Proyecto
 
 #### Diagrama de Contexto (07/06/2019)
