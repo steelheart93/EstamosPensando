@@ -108,12 +108,12 @@ Ejemplo: Una colección o enumeración exhaustiva, es aquella en la que todos lo
 
 ### Contacto con los Miembros
 
-| **Rol** | **Nombre** | **E-mail** |
-| Líder del Equipo | Juan Jose Lopez Giraldo | [jlopezg8@gmail.com](mailto:jlopezg8@gmail.com) |
-| Administrador de Soporte | Stiven Muñoz Murillo | [stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com) |
-| Administrador de Planeación | Felipe Andres Quintero Higuita | [felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com) |
-| Administrador de Calidad | Elisabeth Campuzano Jaramillo | [elisabeth.1701618252@ucaldas.edu.co](mailto:pordefinir@gmail.com) |
-| Administrador Desarrollo | Juan Pablo Sánchez | [juan47s@hotmail.com](mailto:juan47s@hotmail.com) |
+| **Rol** | **Nombre** | **E-mail** | **GitHub** |
+| Líder del Equipo | Juan Jose Lopez Giraldo | [jlopezg8@gmail.com](mailto:jlopezg8@gmail.com) | jlopezg8 |
+| Administrador de Soporte | Stiven Muñoz Murillo | [stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com) | steelheart93 |
+| Administrador de Planeación | Felipe Andres Quintero | [felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com) | no |
+| Administrador de Calidad | Elisabeth | [elisabeth.1701618252@ucaldas.edu.co](mailto:elisabeth.1701618252@ucaldas.edu.co) | no |
+| Administrador Desarrollo | Juan Pablo Sánchez | [juan47s@hotmail.com](mailto:juan47s@hotmail.com) | no |
 
 * * *
 
