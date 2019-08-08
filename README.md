@@ -112,7 +112,7 @@ Ejemplo: Una colección o enumeración exhaustiva, es aquella en la que todos lo
 | **Rol** | **Nombre** | **E-mail** | **GitHub** |
 | Líder del Equipo | Juan Jose Lopez Giraldo | [jlopezg8@gmail.com](mailto:jlopezg8@gmail.com) | jlopezg8 |
 | Administrador de Soporte | Stiven Muñoz Murillo | [stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com) | steelheart93 |
-| Administrador de Planeación | Felipe Andres Quintero | [felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com) | no |
+| Administrador de Planeación | Felipe Andres Quintero | [felipeandresqh@gmail.com](mailto:felipeandresqh@gmail.com) | Felipeandresqh |
 | Admin. de Calidad | Elisa | [elisabeth.1701618252@ucaldas.edu.co](mailto:elisabeth.1701618252@ucaldas.edu.co) | ElisaCampuzano |
 | Administrador Desarrollo | Juan Pablo Sánchez | [juan47s@hotmail.com](mailto:juan47s@hotmail.com) | no |
 
