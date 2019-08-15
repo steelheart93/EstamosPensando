@@ -90,10 +90,10 @@
 1. La respuesta a la pregunta está disponible en el siguiente documento, [Roles de Bolsillo.](roles.pdf)
 2. La respuesta a la pregunta está disponible en el siguiente documento, [Slack.](Slack.pdf) 
 Para una respuesta más exhaustiva puede remitirse al siguiente documento, [Slack Exhaustivo.](SlackExhaustivo.pdf)
-3. Hace referencia **crear**.
-4. Hace referencia **leer**.
-5. Hace referencia **actualizar**.
-6. Hace referencia **borrar**.
+3. Hace referencia a **Crear**.
+4. Hace referencia a **Leer**.
+5. Hace referencia a **Actualizar**.
+6. Hace referencia a **Borrar**.
 
 * * *
 
