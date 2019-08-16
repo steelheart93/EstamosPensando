@@ -19,6 +19,9 @@
 * [Curso Angular Ya](http://www.tutorialesprogramacionya.com/angularya/)
 * [Curso Node.js Ya](http://www.tutorialesprogramacionya.com/javascriptya/nodejsya/)
 * [Creación de una API web con ASP.NET Core](https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio)
+* [Introduction to LINQ Queries (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries)
+* [Model validation in ASP.NET Core MVC and Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-2.2)
+* [Documenting your code with XML comments](https://docs.microsoft.com/en-us/dotnet/csharp/codedoc)
 
 ## Enlaces de Descarga de Software
 
