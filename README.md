@@ -18,7 +18,8 @@
 * [Curso ASP.Net MVC Ya](http://www.tutorialesprogramacionya.com/aspnetmvcya/)
 * [Curso Angular Ya](http://www.tutorialesprogramacionya.com/angularya/)
 * [Curso Node.js Ya](http://www.tutorialesprogramacionya.com/javascriptya/nodejsya/)
-* [Creación de una API web con ASP.NET Core](https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio)
+* [Creación de una API web con ASP.NET Core - TodoApiv2.2](https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio)
+* [Creación de una API web con ASP.NET Core - TodoApiv3.0](https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.0&tabs=visual-studio)
 * [Introduction to LINQ Queries (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries)
 * [Model validation in ASP.NET Core MVC and Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-2.2)
 * [Documenting your code with XML comments](https://docs.microsoft.com/en-us/dotnet/csharp/codedoc)
@@ -30,7 +31,7 @@
 * [Slack Downloads Windows](https://slack.com/intl/es-co/downloads/windows)
 
 ## Arquitecturas de Referencia
-
+* [TodoApi] (https://github.com/aspnet/AspNetCore.Docs/tree/master/aspnetcore/tutorials/first-web-api/samples)
 * [Hackaton](https://github.com/steelheart93/Hackaton2019)
 * [Profesor Oscar](https://github.com/steelheart93/WhiteStartUML)
 * [Profesora Sandra](https://github.com/steelheart93/Barcos-v8a)
