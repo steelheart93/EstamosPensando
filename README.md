@@ -31,7 +31,7 @@
 * [Slack Downloads Windows](https://slack.com/intl/es-co/downloads/windows)
 
 ## Arquitecturas de Referencia
-* [TodoApi] (https://github.com/aspnet/AspNetCore.Docs/tree/master/aspnetcore/tutorials/first-web-api/samples)
+* [TodoApi](https://github.com/aspnet/AspNetCore.Docs/tree/master/aspnetcore/tutorials/first-web-api/samples)
 * [Hackaton](https://github.com/steelheart93/Hackaton2019)
 * [Profesor Oscar](https://github.com/steelheart93/WhiteStartUML)
 * [Profesora Sandra](https://github.com/steelheart93/Barcos-v8a)
